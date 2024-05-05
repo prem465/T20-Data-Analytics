@@ -26,3 +26,17 @@ To interact with the dashboard:
 - **Jupyter Notebook**: For scripting and data manipulation.
 - **Pandas**: For data analysis and manipulation.
 - **ESPN Cricinfo**: Data source for T-20 World Cup information.
+## Screenshots of the Dashboard:
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/ed975241-bc4b-498d-8bc6-a8061065eac3)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/03c60f97-27e0-4aab-8b88-ef4f5f05877b)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/bff86ca5-3a48-47d6-a5a2-c8a055c33132)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/ded6a801-9a81-4139-8db1-bc0e6da2b5e0)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/85d4f57b-3835-4ea2-8e51-9ed47062e5d5)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/6c75b2c2-dcea-4ab8-8979-4ecd7f0b3801)
+   ![image](https://github.com/prem465/T20-Data-Analytics/assets/63437492/40a8473b-feb2-479e-9e12-e928aa7027b3)
+
+
+
+
+
+
